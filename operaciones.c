@@ -13,7 +13,7 @@ int restar(int a, int b) {
 }
 
 /* ── multiplicar — implementar en feature/mi-funcion (Esta función realiza la multiplicación de dos números, entendida como la suma repetida del primer número tantas veces como indica el segundo) ─────────────────────── */
-int multiplicar(int a, int b) {
+int multiplicar(const int a, const int b) {
     return a * b;
 }
 

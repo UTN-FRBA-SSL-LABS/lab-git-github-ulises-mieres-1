@@ -11,6 +11,14 @@ Git resuelve exactamente eso. Pero Git no es solo un "backup con historial": es 
 
 Este laboratorio simula el flujo de trabajo que vas a encontrar en equipos profesionales: ramas de trabajo, pull requests, revisión de código y resolución de conflictos.
 
+# Laboratorio: Git y GitHub
+
+**Nombre:** ___________________________
+**Compañero/a:** ___________________________
+
+---
+
+## Antes de empezar
 ### Herramientas necesarias
 
 - **Git** instalado localmente
@@ -287,7 +295,7 @@ c) Para que el historial de commits sea más corto y lineal
 d) Porque GitHub Classroom lo requiere para la corrección automática
 
 ```
-RESPUESTA_P1=
+RESPUESTA_P1=b
 ```
 
 ---
@@ -414,7 +422,7 @@ c) Hacer un rebase interactivo para reescribir el historial antes de responder a
 d) Pedirle al owner que mergee igual y hacer el fix en un PR separado
 
 ```
-RESPUESTA_P2=
+RESPUESTA_P2=b
 ```
 
 ---
@@ -495,7 +503,7 @@ c) Porque `git reset --hard` modifica el historial local, generando conflictos p
 d) Porque GitHub bloquea automáticamente los push después de un `git reset --hard`
 
 ```
-RESPUESTA_P3=
+RESPUESTA_P3=c
 ```
 
 ---
